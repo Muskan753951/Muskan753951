@@ -8,7 +8,7 @@
 - 💬 Ask me about **Github**
 -  📫 How to reach me **guptamuskan64423@gmail.com**
 - 📜Resume: [https://drive.google.com/file/d/1SFsUZMxsCFS20UgwrpnL2_3ZCxcGTrn9/view?usp=sharing](https://drive.google.com/file/d/1SFsUZMxsCFS20UgwrpnL2_3ZCxcGTrn9/view?usp=sharing)
-- 💭 Fun fact **I'm good in sketching😅**
+- 💭 Fun fact: **I'm good in sketching😅**
  
   <h3 align="left">Connect with me:</h3>
   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muskangupta" height="30" width="40" /></a>
