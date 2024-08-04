@@ -1,4 +1,4 @@
-![logo](https://github.com/Muskan753951/Muskan753951/blob/main/Black%20Banner.png)
+![logo](https://github.com/Muskan753951/Muskan753951/blob/main/rbanner.png)
 <h1 align="center">Hi 👋, I'm Muskan Gupta</h1>
 <h3 align="center">A  MERN Stack Developer </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
