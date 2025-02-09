@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muskan753951&label=Profile%20views&color=0e75b6&style=flat" alt="Muskan753951" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://muskannportfolio.netlify.app/](https://muskannportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muskan25.netlify.app/](https://muskan25.netlify.app/)
 - 💬 Ask me about **Github**
 -  📫 How to reach me **guptamuskan64423@gmail.com**
 - 📜Resume: [https://drive.google.com/file/d/1of8QrlNhcy1ciXcQSXN9DHScb3ydHpCA/view?usp=sharing](https://drive.google.com/file/d/1of8QrlNhcy1ciXcQSXN9DHScb3ydHpCA/view?usp=sharing)
