@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://muskan25.netlify.app/](https://muskan25.netlify.app/)
 - 💬 Ask me about **Github**
 -  📫 How to reach me **guptamuskan64423@gmail.com**
-- 📜Resume: [https://drive.google.com/file/d/1vN6gIXrjX5YHGXyySKdqjfmp2c0akBMV/view?usp=sharing](https://drive.google.com/file/d/1vN6gIXrjX5YHGXyySKdqjfmp2c0akBMV/view?usp=sharing)
+- 📜Resume: [https://drive.google.com/file/d/1IDLPBsYfev6YGy3crWlF4D5AqenIjIui/view?usp=sharing](https://drive.google.com/file/d/1IDLPBsYfev6YGy3crWlF4D5AqenIjIui/view?usp=sharing)
 - 💭 Fun fact: **I'm good in sketching😅**
  
   <h3 align="left">Connect with me:</h3>
